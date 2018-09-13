@@ -1,0 +1,43 @@
+4
+Aronne Brivio 97
+Marco Brivio 98
+Mario Rossi 99
+Nome Cognome 88
+
+mkfriend 97 98 1994
+mkfriend 97 99 2010
+
+add Foo Bar 0
+add Luca Paccani 1
+mkfriend 0 1 2015
+
+add Mirko Wart 15
+mkfriend 15 1 1987
+
+add Federico Almaviva 8
+add Lorenzo Colombo 2
+mkfriend 8 2 2007
+
+add Anna Cornago 12
+mkfriend 8 12 2013
+
+add Davide Prete 11
+mkfriend 8 11 2008
+
+add Valentina Pignatale 9
+mkfriend 8 9 2016
+
+add Sono Solo 3
+
+mkfriend 11 98 2000
+mkfriend 12 88 2007
+
+print
+
+groups
+
+data_groups 2008
+
+weakness
+
+coeff 97 98
